@@ -1,0 +1,20 @@
+{
+  "name": "it-brains",
+  "version": "0.0.1",
+  "description": "\u0014his is test project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "vue-js-modal": "^2.0.1"
+  },
+  "devDependencies": {
+    "moment": "^2.29.4"
+  }
+}
